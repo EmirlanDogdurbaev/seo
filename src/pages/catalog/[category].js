@@ -7,7 +7,7 @@ export default function CategoryPage() {
     return (
         <div>
             <h1>Категория: {category}</h1>
-            {/* Добавь логику для отображения товаров */}
+
         </div>
     );
 }
